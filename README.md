@@ -1,4 +1,4 @@
-# Obesity Classification Workflow (Simplified)
+# Obesity Classification Workflow 
 
 ```mermaid
 flowchart TD
@@ -16,3 +16,4 @@ flowchart TD
     Best --> Final[Generate Final Predictions]
     Final --> Visual[Visualize Results]
     Visual --> End[End]
+
